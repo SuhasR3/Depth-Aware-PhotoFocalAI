@@ -21,8 +21,8 @@ A production-grade computer vision project demonstrating advanced background man
 - **PyTorch** graph optimization
 
 ### Performance Metrics
-| Task                  | Precision | Recall | FPS  |
-|-----------------------|-----------|--------|------|
-| Segmentation          | 98.7%     | 97.2%  | 24.5 |
-| Depth Estimation       | RMSE 0.32 | δ1 92% | 18.7 |
-| Adaptive Blurring      | PSNR 38.6 | SSIM 0.96 | 45.2 |
+| Task                  | Precision | Recall |
+|-----------------------|-----------|--------|
+| Segmentation          | 98.7%     | 97.2%  |
+| Depth Estimation       | RMSE 0.32 | δ1 92% |
+| Adaptive Blurring      | PSNR 38.6 | SSIM 0.96 |
